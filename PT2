@@ -1,0 +1,7 @@
+hello
+commands linux
+service jenkins start
+service jenkins stop
+service firewalld status
+service firewalld stop
+service firewalld start
